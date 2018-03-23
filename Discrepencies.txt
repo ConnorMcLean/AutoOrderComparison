@@ -1,0 +1,66 @@
+Part: SO096N (Deliver Code: GT857L) Has the following differences: 
+Different Buy Cost (Total). 
+ Expected: $7762.81 
+ Recieved: $7962.81 
+Different Buy Cost (Total). 
+ Expected: $15.53 
+ Recieved: $15.93 
+
+
+Part: BB715G (Deliver Code: JG159U) Has the following differences: 
+Different Buy Cost (Total). 
+ Expected: $1493.13 
+ Recieved: $1593.13 
+Different Buy Cost (Total). 
+ Expected: $7.08 
+ Recieved: $7.55 
+
+
+Part: TE754R (Deliver Code: LZ433C) Has the following differences: 
+Different Supplied amount (Total). 
+ Expected: 499 
+ Recieved: 501 
+Different Buy Cost (Total). 
+ Expected: $3.02 
+ Recieved: $3.01 
+
+
+Part: AT455E (Deliver Code: PJ030T) Has the following differences: 
+Different Buy Cost (Total). 
+ Expected: $6376.67 
+ Recieved: $6396.67 
+Different Buy Cost (Total). 
+ Expected: $12.96 
+ Recieved: $13.00 
+
+
+Part: JE202M (Deliver Code: YB165B) Has the following differences: 
+Different Buy Cost (Total). 
+ Expected: $3135.63 
+ Recieved: $3635.63 
+Different Supplied amount (Total). 
+ Expected: 190 
+ Recieved: 230 
+Different Buy Cost (Total). 
+ Expected: $16.50 
+ Recieved: $15.81 
+
+
+Part: LS430Z (Deliver Code: QR462J) Has the following differences: 
+Different Buy Cost (Total). 
+ Expected: $8054.27 
+ Recieved: $10054.27 
+Different Buy Cost (Total). 
+ Expected: $17.47 
+ Recieved: $21.81 
+
+
+Part: HR571F (Deliver Code: HZ210X) Has the following differences: 
+Different Supplied amount (Total). 
+ Expected: 295 
+ Recieved: 285 
+Different Buy Cost (Total). 
+ Expected: $12.19 
+ Recieved: $12.62 
+
+
